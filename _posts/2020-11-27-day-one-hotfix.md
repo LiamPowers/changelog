@@ -1,7 +1,7 @@
 ---
 title: "Day One Hotfix"
 
-category: Fix
+category: Bug
 ---
 
 Fixed bugs:
