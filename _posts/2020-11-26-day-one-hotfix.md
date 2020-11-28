@@ -4,7 +4,7 @@ title: "Day One Hotfix"
 category: Bug
 ---
 
-### Fixed bugs:
+#### Fixed bugs:
 
 * Name length bug
 * Downloads for resources with multiple attachments
