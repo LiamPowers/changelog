@@ -5,7 +5,7 @@ category: New
 
 ---
 
-We are proud to announce that after a lot of hard work (mainly Luigi), we have finally launched out beta platform. 
+We are proud to announce that after a lot of hard work (mainly Luigi), we have finally launched our beta platform. 
 
 This is a really big moment for FM Base, although it's only the beginning of our development.
 
