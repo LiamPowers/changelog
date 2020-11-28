@@ -1,9 +1,9 @@
-```
 ---
-title:  "FM Base Beta Platform Release"
+title: "Beta Website Release"
+
 category: New
+
 ---
-```
 
 We are proud to announce that after a lot of hard work (mainly Luigi), we have finally launched out beta platform. 
 
