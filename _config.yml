@@ -25,7 +25,7 @@ baseurl: '' # optional
 github: LiamPowers/changelog
 
 # Global site tag (gtag.js) - Google Analytics e.g. UA-MYANALYTICS
-analytics:  #(recommended)
+analytics: 254444100 #(recommended)
 
 # https://changelog-site.disqus.com
 # disqus-identifier: changelog-site  # (optional)
